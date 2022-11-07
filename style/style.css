@@ -1,0 +1,39 @@
+header{
+    text-align: center;
+}
+.global{
+    background-color:rgb(233, 226, 218);
+    border-radius: 2%;
+    
+}
+.image{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    background-color:white;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+img{
+    width: fit-content;
+    height: 500px;
+    margin-top: 15px;   
+}
+.content__text{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.content__text p{
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+}
+ul{
+    text-align: justify;
+    padding-inline-start: 20px;
+    
+}
+
+
+
